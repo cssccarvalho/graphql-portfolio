@@ -1,7 +1,7 @@
 const defaultQuery = `
   # Hi there
   # My name is Carlos and I am a Software Engineer from Portugal
-  # I use this GraphQL API, made by <a href="https://iamsaravieira.com/">Sara Vieira</a> to experiment with new shinny things.
+  # I use this GraphQL API, made by Sara Vieira at https://iamsaravieira.com/ to experiment with new shinny things.
 
   {
     name,
